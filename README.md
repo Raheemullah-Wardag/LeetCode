@@ -8,8 +8,14 @@ These are My DSA problems that i Solved .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raheemullah-Wardag/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Raheemullah-Wardag/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raheemullah-Wardag/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Raheemullah-Wardag/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Raheemullah-Wardag/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
