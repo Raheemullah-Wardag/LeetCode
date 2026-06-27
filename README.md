@@ -1,3 +1,3 @@
-# Projects
-Raheemullah Wardag Projects 
-These are My Projects You may see them as inspiration.
+# LeetCode 
+Raheemullah Wardag LeetCode 
+These are My DSA problems that i Solved .
